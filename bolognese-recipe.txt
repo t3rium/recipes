@@ -7,5 +7,6 @@ salt
 Description:
 boil pasta for 10 min
 fry meat for 20 min
-throw meat in pasta and add sauce
+throw sliced meat in pasta 
+add sauce
 it's ready!
